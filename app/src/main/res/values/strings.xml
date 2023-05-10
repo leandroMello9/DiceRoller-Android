@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">DiceRoller</string>
-    <string name="roll_label">Roll</string>
+    <string name="roll_label">Roll</string>3
+	<string name="count_label">Count Up</string>
     <string name="label_text">Hello World</string>
 
 
